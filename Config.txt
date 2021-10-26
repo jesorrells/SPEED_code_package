@@ -1,0 +1,4 @@
+C:\Downloads\SPEED_GPU_Github\FLIM_10mMNADH_testData_16000x256x256x4_FLIMRaw
+256 256 40 16000 32 1
+0.000000
+_test_speed_github
