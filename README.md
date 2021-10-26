@@ -3,7 +3,7 @@
 
 
 October 2021
-SPEED Processing code, by Janet Sorrells and Rishee Iyer
+SPEED Processing code, by Janet Sorrells and Rishyashring Iyer
 
 
 ![fig](assets/thumbnail.jpg)
