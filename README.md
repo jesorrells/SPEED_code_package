@@ -1,8 +1,12 @@
 # SPEED_code_package
 [![DOI](https://zenodo.org/badge/DOI/10.1364/zenodo.OE.439675.svg)](https://doi.org/10.1364/OE.439675)
+
+
 October 2021
 SPEED Processing code, by Janet Sorrells and Rishee Iyer
-https://doi.org/10.1364/OE.439675
+
+
+![fig](assets/thumbnail.jpg)
 
 
 ## Requirements
