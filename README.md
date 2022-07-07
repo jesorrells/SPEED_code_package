@@ -5,6 +5,8 @@
 October 2021
 SPEED Processing code, by Janet Sorrells and Rishyashring Iyer
 
+July 2022
+New version available with multiple thresholds for use with HPD: https://github.com/jesorrells/SPEED_code_package_HPD
 
 ![fig](assets/thumbnail.jpg)
 
